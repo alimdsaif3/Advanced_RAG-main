@@ -6,30 +6,31 @@ Dive into the world of advanced language understanding with `Advanced_RAG`. Thes
 ### 🔥Basic RAG :
 Understand the journey of a query through RAG, from user input to the final generated response, all depicted in a clear, visual flow.
 
-![RAG_User_Flow](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/RAG_User_Flow.jpg)
+![RAG_User_Flow](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/RAG_User_Flow.jpg)
+
 
 ### 🌟Advanced RAG Techniques :
 Explore the intricate components that make up an advanced RAG system, from query construction to generation.
-![Advanced RAG Components](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/Advanced%20RAG%20Components.png)
+![Advanced RAG Components](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/Advanced%20RAG%20Components.png)
 
 ### 02. Multi Query Retriever :
 Get to grips with the Multi Query Retriever structure, which enhances the retrieval process by selecting the best responses from multiple sources.
-![MQR](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/Multi%20Query%20Retriever.jpg)
+![MQR](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/Multi%20Query%20Retriever.jpg)
 
 ### 06. Self-Reflection-RAG :
-![self-Rag](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/self%20rag.png)
+![self-Rag](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/self%20rag.png)
 
 ### 07. Agentic RAG :
-![download](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/agentic%20rag.png)
+![download](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/agentic%20rag.png)
 
 ### 08. Adaptive Agentic RAG :
-![adaptive_rag_agent](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/adaptive%20rag%20agent.png)
+![adaptive_rag_agent](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/adaptive%20rag%20agent.png)
 
 ### 09. Corrective Agentic RAG :
-![correctiveRAG](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/corrective%20rag.png)
+![correctiveRAG](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/corrective%20rag.png)
 
 ### 10. LLAMA 3 Agentic RAG Local:
-![LLAMA3_AGent](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/Llama3_Agent.png)
+![LLAMA3_AGent](https://github.com/alimdsaif3/Advanced_RAG-main/blob/main/img/Llama3_Agent.png)
 
 ## 📚Notebooks Overview📝💫
 Below is a detailed overview of each notebook present in this repository:
